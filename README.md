@@ -1,1 +1,1 @@
-# myPortfolio !s version of my portfolio with html,bootstrap and jquery
+# myPortfolio First version of my portfolio with html,bootstrap and jquery
